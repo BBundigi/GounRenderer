@@ -4,4 +4,5 @@ GounRenderer 프로젝트 DirectX, OpenGL 같은 3D 렌더링을 위한 그래�
 
 
 ![GounRenderer](https://github.com/user-attachments/assets/96ef727c-331d-45ba-b283-7d6acb166780)
+
 (Blender 기본 모델 Suzanne 사용, 색은 UV의 좌표를 입혔습니다)
